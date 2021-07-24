@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="First_Name">First Name</string>
+    <string name="Password">Password</string>
+    <string name="Email_Id">EmailID</string>
+    <string name="Login">Login</string>
+    <string name="SinUp">SinUp</string>
+    <string name="Confirm_Password">Confirm password</string>
+    <string name="Create_User">Create User</string>
+</resources>
